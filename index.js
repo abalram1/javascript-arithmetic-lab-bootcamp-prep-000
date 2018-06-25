@@ -1,33 +1,35 @@
-var number = 5
+var number1 = 5
 number++
-return number
+return number1
+
 number--
-return number
+return number1
 
 number += 3
-return number
+return number1
 
 number -= 2
-return number
+return number1
 
 number *= 10
-return number
+return number1
 
 number /= 5
-return number
+return number1
 
-var number = 10
+var number2 = 10
 function add5()
 {
   number += 5
+  return number2
 }
 
 function divideBy3()
 {
   number /= 3
+  return number2
 }
 
-return number
 
 var Int
 parseInt('2', 10)
