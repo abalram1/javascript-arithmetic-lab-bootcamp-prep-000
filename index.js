@@ -1,5 +1,9 @@
 function add(){
-  return number
+  var numberX
+  var numberY
+  var numberZ
+  X+Y
+  return numberZ
 }
 
 function divideBy3(){
