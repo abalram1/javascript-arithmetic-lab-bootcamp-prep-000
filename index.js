@@ -1,18 +1,14 @@
-var number = 10
-
-function add(1,80){
-  number += 5
+function add(){
   return number
 }
 
 function divideBy3(){
-  number /= 3
   return number
 }
 
-divideBy3(number)
+divideBy3(15)
 
-add5(number)
+add(5,10)
 
 
 function makeInt(){
