@@ -26,13 +26,6 @@ function divideBy(){
   return numberC
 }
 
-divideBy(15,3)
-
-add(5,10)
-
-subtract(10,5)
-
-multiplyBy(2,20)
 
 function makeInt(){
   var D
