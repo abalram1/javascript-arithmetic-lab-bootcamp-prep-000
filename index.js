@@ -6,13 +6,15 @@ function add5(){
 
 function divideBy3(){
   number /= 3
+  return number
+  
 }
 
 divideBy3(number)
-console.log(number)
+
 
 add5(number)
-console.log(number)
+
 
 
 function makeInt(){
