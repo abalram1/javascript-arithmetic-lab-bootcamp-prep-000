@@ -9,24 +9,19 @@ function subtract(){
 }
 
 function multiplyBy(){
-  var X
-  var Y
-  var Z = X*Y
-  return Z
+  a*b
+  return number
 }
 
 function divideBy(){
-  var numberA
-  var numberB
-  var numberC = numberA/numberB
-  return numberC
+  a/b
+  return number
 }
 
 
 function makeInt(){
-  var D
-  parseInt()
-  return D
+  parseInt(n)
+  return number
 }
 
 function preserveDecimal(){
