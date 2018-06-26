@@ -1,6 +1,6 @@
 var number = 10
 
-function add5(){
+function add(1,80){
   number += 5
   return number
 }
