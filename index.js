@@ -22,6 +22,15 @@ function divide(){
   return a/b
 }
 
+function inc(){
+  var n
+  n++
+}
+
+function dec(){
+  var n
+  n--
+}
 
 function makeInt(){
   var n
