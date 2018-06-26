@@ -16,8 +16,7 @@ function add5(){
   number += 5
 }
 
-function divideBy3()
-{
+function divideBy3(){
   number /= 3
 }
 
@@ -35,13 +34,11 @@ parseInt('nonsense!', 10)
 
 parseFloat('80.123999')
 
-function makeInt()
-{
+function makeInt(){
   parseInt(number)
 }
 
-function preserveDecimal()
-{
+function preserveDecimal(){
   parseFloat(number)
 }
 
