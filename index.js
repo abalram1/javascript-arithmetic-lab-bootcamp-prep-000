@@ -1,5 +1,3 @@
-var n
-
 function add(a,b){
   return a+b
 }
@@ -16,22 +14,22 @@ function divide(a,b){
   return a/b
 }
 
-function inc(){
+function inc(n){
   n++
   return n
 }
 
-function dec(){
+function dec(n){
   n--
   return n
 }
 
-function makeInt(){
+function makeInt(n){
   parseInt()
   return n
 }
 
-function preserveDecimal(){
+function preserveDecimal(n){
   parseFloat()
   return n
 }
