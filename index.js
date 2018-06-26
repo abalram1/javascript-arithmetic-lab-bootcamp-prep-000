@@ -8,6 +8,14 @@ function add(){
 
 
 
+function multiply(){
+  var X
+  var Y
+  var Z
+  X*Y
+  return Z
+}
+
 function divideBy(){
   var numberA
   var numberB
