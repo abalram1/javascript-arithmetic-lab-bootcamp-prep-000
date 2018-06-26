@@ -2,7 +2,7 @@ var a
 var b
 var n
 
-function add(){
+function add(a){
   return a+b
 }
 
