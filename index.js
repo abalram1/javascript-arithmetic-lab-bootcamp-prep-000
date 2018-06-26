@@ -18,7 +18,6 @@ add5(number)
 function makeInt(){
   parseInt(number)
   return number
-  
 }
 
 function preserveDecimal(){
@@ -26,6 +25,6 @@ function preserveDecimal(){
   return number
 }
 
-makeInt()
+makeInt(number)
 
-preserveDecimal()
+preserveDecimal(number)
