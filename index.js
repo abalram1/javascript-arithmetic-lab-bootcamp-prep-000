@@ -1,15 +1,11 @@
 function add(){
-  var numberX
-  var numberY
-  var numberZ = numberX+numberY
-  return numberZ
+  a+b
+  return number
 }
 
 function subtract(){
-  var A
-  var B
-  var C = A-B
-  return C
+  a-b
+  return number
 }
 
 function multiplyBy(){
