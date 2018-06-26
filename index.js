@@ -2,14 +2,14 @@ function add(){
   var a
   var b
   a+b
-  return number
+  return a+b
 }
 
 function subtract(){
   var a
   var b
   a-b
-  return a+b
+  return a-b
 }
 
 function multiplyBy(){
