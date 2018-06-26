@@ -10,13 +10,13 @@ function subtract(){
   return a-b
 }
 
-function multiplyBy(){
+function multiply(){
   var a
   var b
   return a*b
 }
 
-function divideBy(){
+function divide(){
   var a
   var b
   return a/b
