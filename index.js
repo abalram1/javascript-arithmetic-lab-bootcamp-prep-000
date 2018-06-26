@@ -2,15 +2,17 @@ function add(){
   var numberX
   var numberY
   var numberZ
-  X+Y
+  numberX+numberY
   return numberZ
 }
+
+
 
 function divideBy(){
   var numberA
   var numberB
   var numberC
-  A/B
+  numberA/numberB
   return numberC
 }
 
