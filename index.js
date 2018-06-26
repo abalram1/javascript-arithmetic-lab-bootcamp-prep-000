@@ -6,9 +6,15 @@ function add(){
   return numberZ
 }
 
+function subtract(){
+  var A
+  var B
+  var C
+  A-B
+  return C
+}
 
-
-function multiply(){
+function multiplyBy(){
   var X
   var Y
   var Z
@@ -28,6 +34,9 @@ divideBy(15,3)
 
 add(5,10)
 
+subtract(10,5)
+
+multiplyBy(2,20)
 
 function makeInt(){
   var D
