@@ -22,10 +22,10 @@ function divideBy3()
   number /= 3
 }
 
-divideBy3()
+divideBy3(number)
 console.log(number)
 
-add5()
+add5(number)
 console.log(number)
 
 parseInt('2', 10)
