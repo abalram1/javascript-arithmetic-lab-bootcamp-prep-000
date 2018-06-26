@@ -46,6 +46,6 @@ function preserveDecimal(){
   return I
 }
 
-makeInt(8.123)
+makeInt(26.123)
 
-preserveDecimal(8)
+preserveDecimal(35.892)
