@@ -24,11 +24,13 @@ function divide(){
 
 
 function makeInt(){
+  var n
   parseInt(n)
   return n
 }
 
 function preserveDecimal(){
+  var n
   parseFloat(n)
   return n
 }
